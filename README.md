@@ -13,7 +13,7 @@
 
  🔭 I’m currently studying on **[CyberSoft Academy](https://cybersoft.edu.vn//)**
 
- 🌱 I’m currently learning **Backend Skills.**
+ 🌱 I’m currently learning **Backend Skills.** 
 
  👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -55,7 +55,9 @@
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
 <br/>
 <br/>
+<br/>
+<br/>
+<b>Images credit from <a href="https://github.com/ledidan/">Others</a></b>
+
