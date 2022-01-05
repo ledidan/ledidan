@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dan</h1>
+/* 
 <h3 align="center">I'm a passionate Full Stack Javascript from Vietnam.</h3>
 <p align="center">
 	<a href="https://github.com/ledidan"><img src="https://img.shields.io/github/followers/letranloc.svg?label=GitHub&style=social" alt="GitHub"></a>
@@ -61,3 +62,4 @@
 <br/>
 <b>Images credit from <a href="https://github.com/ledidan/">Others</a></b>
 
+*/
